@@ -1,0 +1,13 @@
+.app-container {
+  height: 100vh;
+  max-width: 40rem;
+  margin-inline: auto;
+
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.intro-text {
+  text-align: center;
+}
